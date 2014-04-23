@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5B5E79C6-F9A6-4C7B-92BD-2C516143B3C5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Quiz</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5DEB8526-72BE-4C80-871C-40A1F8CDEE6F</key>
+		<string>https://github.com/Remoran/Quiz.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Quiz.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5DEB8526-72BE-4C80-871C-40A1F8CDEE6F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Remoran/Quiz.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5DEB8526-72BE-4C80-871C-40A1F8CDEE6F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5DEB8526-72BE-4C80-871C-40A1F8CDEE6F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Quiz1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
